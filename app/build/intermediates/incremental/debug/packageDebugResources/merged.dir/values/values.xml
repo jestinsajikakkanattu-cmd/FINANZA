@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#EDEAEA</color>
+    <string name="app_name">Budget Tracker</string>
+    <style name="Theme.BudgetTracker" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
